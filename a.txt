@@ -1,0 +1,2 @@
+Hello, This is my first text in the a.txt file using PICO editor.
+
